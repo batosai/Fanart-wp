@@ -1,0 +1,1049 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GT3Themes WP\n"
+"POT-Creation-Date: 2014-11-17 11:53+0200\n"
+"PO-Revision-Date: 2015-03-17 00:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: GT3Themes <help@gt3themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: __;_e;_\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:4
+msgid "404 Error"
+msgstr "Erreur 404"
+
+#: 404.php:7
+msgid "Search"
+msgstr "Recherche"
+
+#: bloglisting.php:55 search.php:92 single-port.php:279 single-port.php:437
+#: single-port.php:715 single-port.php:899
+msgid "by"
+msgstr "par"
+
+#: bloglisting.php:56
+#: core/plugins/gt3-pagebuilder/core/shortcodes/feature_portfolio.php:123
+#: core/registrator/ajax-handlers.php:70 single-port.php:61 single-port.php:280
+#: single-port.php:438 single-port.php:716 single-port.php:900 single.php:43
+msgid "in"
+msgstr " "
+
+#: bloglisting.php:57 core/registrator/ajax-handlers.php:72 page-blog-fullscreen.php:66
+#: search.php:63 search.php:93 single-port.php:78 single-port.php:298 single-port.php:456
+#: single-port.php:734 single-port.php:918 single.php:44
+msgid "comments"
+msgstr "commentaires"
+
+#: bloglisting.php:67 core/registrator/ajax-handlers.php:86
+#: core/registrator/ajax-handlers.php:89 page-blog-fullscreen.php:77
+#: page-blog-fullscreen.php:79
+msgid "Read More"
+msgstr "En savoir plus"
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ce poste est protégé par mot. Entrez le mot de passe pour accéder aux commentaires."
+
+#: comments.php:24 core/plugins/gt3-pagebuilder/core/shortcodes/sitemap.php:110
+msgid "Comments"
+msgstr "Commentaires"
+
+#: comments.php:49
+msgid "Name *"
+msgstr "Nom *"
+
+#: comments.php:50
+msgid "Email *"
+msgstr ""
+
+#: comments.php:51
+msgid "URL"
+msgstr ""
+
+#: comments.php:53
+msgid "Message..."
+msgstr ""
+
+#: comments.php:56
+msgid "You must be logged in to post a comment."
+msgstr "Vous devez être connecté pour déposer un commentaire."
+
+#: comments.php:57
+msgid "Leave a Comment!"
+msgstr "Laissez un commentaire !"
+
+#: comments.php:58
+msgid "Post Comment"
+msgstr "Poster un commentaire"
+
+#: comments.php:59
+msgid "Logged in as"
+msgstr "Connecté en tant que"
+
+#: comments.php:59
+msgid "Log out?"
+msgstr "Déconnexion ?"
+
+#: comments.php:64
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Désolé, le formulaire de commentaire est fermé en ce moment."
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:15
+msgid "Heading"
+msgstr "Titre"
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:19
+msgid "Alignment"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:25
+msgid "Size"
+msgstr "Taille"
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:31
+msgid "Color"
+msgstr "Couleur"
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:102
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:487
+msgid "Upload Image"
+msgstr "Envoyer une image"
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:213
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:242
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:890
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:470
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:534
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:647 functions.php:339
+msgid "All"
+msgstr "Tous"
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:227
+msgid "No category available. Please add new category in the posts section."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:254
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:481
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:546
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:657
+msgid "No category available. Please add new category in the portfolio section."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:270
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1354
+msgid "Select icon"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:319
+msgid "Give some name"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:320
+msgid "Give some link"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:321
+msgid "Foreground color"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:323
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1162
+msgid "Background color"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:349
+msgid "You can use the custom CSS class for this module."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:353
+msgid "Please set the custom margin-bottom of the module."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/get-module-settings.php:375
+msgid "Done"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-ajax-handlers.php:99
+msgid "Insert"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:296
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:417
+#: core/plugins/gt3-pagebuilder/core/registrator/custom-post-types.php:34
+msgid "Title"
+msgstr "Titre"
+
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:300
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:312
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:360
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:376
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:421
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:433
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:481
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:500
+msgid "color"
+msgstr "couleur"
+
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:308
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:372
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:429
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:496
+msgid "Caption"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:342
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:463
+msgid "Video settings"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:346
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:467
+msgid "Video URL (YouTube or Vimeo)"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:349
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:470
+#: core/plugins/gt3-pagebuilder/core/shortcodes/video.php:78
+msgid "Examples:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:356
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:477
+msgid "Title and thumbnail"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:412
+msgid "Image Settings"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:836
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:951
+msgid "All Works"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:861
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:910
+#: core/plugins/gt3-pagebuilder/core/pb-functions.php:980
+msgid "View all post filed under"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:8
+msgid "Add simple accordion style with collapsible components."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:12
+msgid "Demonstrate photo before and after processing"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:16
+msgid "Display standard style blog to the page."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:20
+msgid "Display blog posts from different categories."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:28
+msgid "Display entire content available in the visual editor."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:32
+msgid "Add advanced counter block with icon."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:36
+msgid "Add divider to separate module blocks."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:40
+msgid "Add FAQ module blocks."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:44
+msgid "Display gallery from existing gallery list."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:48
+msgid "Add simple google map."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:52
+msgid "Add any HTML code or shortcode to display on the page."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:56
+msgid "Add simple heading."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:60
+msgid "Add content block with the icon."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:64
+msgid "Add icon list with the text link option."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:68
+msgid "Add javascript code to run on the page."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:72
+msgid "Add different message box types."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:76
+msgid "Display the partners logos from existing list."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:80
+msgid "Add non-ajax portfolio to the page."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:88
+msgid "Display portfolio posts from different categories."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:92
+msgid "Add simple and advanced price table."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:96
+msgid "Add advanced and flexible progress bar."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:100
+msgid "Add special promo text with call to action button."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:104
+msgid "Add simple sitemap."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:108
+msgid "Add any slider plugin that uses shortcodes."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:112
+msgid "Add tabbed content area."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:116
+msgid "Display selected team members from existing list."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:120
+msgid "Display the selected testimonials from existing list."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:124
+msgid "Add simple text area."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:128
+msgid "Add simple toggle style with collapsible components."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:132
+msgid "Add vimeo or youtube video."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:175
+msgid "Before image"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:176
+msgid "After image"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:199
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:269
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:339
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:409
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:535
+msgid "Add new item"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:232
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:302
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:372
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:442
+msgid "Expanded"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:246
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:316
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:386
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:457
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:577
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:644
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:667
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:691
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:719
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:748
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:830
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:853
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:887
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:921
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:957
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:979
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1009
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1042
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1067
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1092
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1115
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1237
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1261
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1282
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1308
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1357
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1381
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1499
+msgid "Animation"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:526
+msgid "Bar Background"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:527
+msgid "Bar Color"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:528
+msgid "Bar Width:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:529
+msgid "Bar Size:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:530
+msgid "Font Size:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:564
+msgid "Percent"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:599
+msgid "Select gallery"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:642
+msgid "Thumbs format preview"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:643
+msgid "Images in a row"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:666
+msgid "Select icons"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:689
+msgid "Show Site Feeds"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:690
+msgid "Show Posts"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:717
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:745
+msgid "Posts per page"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:718
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:747
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:801
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:829
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:885
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:919
+#: core/plugins/gt3-pagebuilder/core/registrator/custom-post-types.php:36
+msgid "Categories"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:746
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:852
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:884
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:918
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1040
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1065
+msgid "Items per line"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:769
+msgid "Slider"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:770
+msgid ""
+"You can add any slider(plugin) that uses shortcodes. Please copy/paste the slider plugin "
+"shortcode to the content area above and click \"Done\"."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:798
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:827
+msgid "Items per page (Put the number of the items to load on the page)"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:799
+msgid "View type"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:800
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:828
+msgid "Filter"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:851
+msgid "Select partners"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:883
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:917
+msgid "Number of posts"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:886
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:920
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1066
+msgid "Sorting type"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:942
+msgid "Main text"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:944
+msgid "Main text color"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:948
+msgid "Additional text"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:950
+msgid "Additional text color"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:954
+msgid "Button text"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:955
+msgid "Button link"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:956
+msgid "Promo button type"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1006
+msgid ""
+"Examples:<br>Youtube - http://www.youtube.com/watch?v=6v2L2UGZJAM<br>Vimeo - http://vimeo."
+"com/47989207"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1007
+msgid "Video url"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1008
+msgid "Video height"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1039
+msgid "Select team members"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1041
+msgid "Order type"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1064
+msgid "Select testimonials"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1088
+msgid "Text"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1089
+msgid "You can use any HTML tags and shortcodes that are available in this plugin."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1113
+msgid "HTML"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1114
+msgid "You can use HTML tags and shortcodes."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1136
+msgid "Javascript"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1137
+msgid "You can use Javascript and shortcodes."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1158
+msgid "Please set the custom top padding before the modules."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1159
+msgid "Properties"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1160
+msgid "Background image"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1207
+msgid "Google map code"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1209
+msgid "Example:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1212
+msgid "Code from <a href='https://maps.google.com/' target='_blank'>Google maps</a>"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1235
+msgid ""
+"This module will display the entire content of the standard wordpress visual editor. "
+"Please note that you can use this module only once on the page."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1259
+msgid "This module displays the social sharing buttons."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1304
+msgid "Iconbox heading"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1305
+msgid "Iconbox text"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1306
+msgid "Link"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1307
+msgid "Target"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1330
+msgid "Counter count"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1331
+msgid "Counter title"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1332
+msgid "Counter text"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1355
+msgid "Message box text"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1356
+msgid "Box type"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1379
+msgid "Add new list item"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1380
+msgid "List type"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1407
+msgid "Add price item"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1433
+msgid "Name"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1435
+msgid "Price"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1437
+msgid "Period"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1443
+msgid "Add feature"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1473
+msgid "\"Get it now\" Link"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1475
+msgid "\"Get it now\" caption"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-modules.php:1477
+msgid "Most popular"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/pb-parser.php:150
+#: core/plugins/gt3-pagebuilder/core/shortcodes/portfolio.php:163 core/widgets/posts.php:26
+#: page-center.php:28 page.php:22 single-port.php:100 single-port.php:546
+#: single-port.php:1008 single.php:58
+msgid "Read more!"
+msgstr "En savoir plus"
+
+#: core/plugins/gt3-pagebuilder/core/registrator/custom-post-types.php:6
+#: core/plugins/gt3-pagebuilder/core/shortcodes/sitemap.php:68
+msgid "Portfolio"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/registrator/custom-post-types.php:26
+#: core/plugins/gt3-pagebuilder/core/registrator/custom-post-types.php:90
+msgid "Category"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/registrator/custom-post-types.php:35
+msgid "Author"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/registrator/custom-post-types.php:37
+msgid "Date"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/registrator/custom-post-types.php:55
+msgid "Team"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/registrator/custom-post-types.php:74
+msgid "Gallery"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/registrator/custom-post-types.php:94
+msgid "Testimonials"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/registrator/custom-post-types.php:95
+#: core/plugins/gt3-pagebuilder/core/registrator/custom-post-types.php:119
+msgid "Add New"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/registrator/custom-post-types.php:118
+msgid "Partners"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/shortcodes/feature_portfolio.php:121
+#: core/plugins/gt3-pagebuilder/core/shortcodes/feature_posts.php:95
+msgid "Read more"
+msgstr "En savoir plus"
+
+#: core/plugins/gt3-pagebuilder/core/shortcodes/sitemap.php:35
+msgid "Site Feeds"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/shortcodes/sitemap.php:37
+msgid "Main RSS Feed"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/shortcodes/sitemap.php:38
+msgid "Comments RSS Feed"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/shortcodes/sitemap.php:46 page-center.php:29
+#: page.php:23 single-port.php:102 single-port.php:548 single-port.php:1010 single.php:60
+msgid "Pages"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/shortcodes/sitemap.php:92
+msgid "Posts"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/shortcodes/video.php:79
+msgid "Youtube"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/core/shortcodes/video.php:80
+msgid "Vimeo"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:40
+msgid "GT3 Page Builder"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:79
+msgid ""
+"You can use this drag and drop page builder to create unlimited custom page layouts. It "
+"is too simple, just click any module below, adjust your own settings and preview the "
+"page. That's all."
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:208
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:707
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:785
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:853
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:944
+msgid "Select Media"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:230
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:725
+msgid "Fit Style:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:239
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:732
+msgid "Show Controls:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:249
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:738
+msgid "Autoplay:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:278
+msgid "Author:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:279
+msgid "Company:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:297
+msgid "External Link:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:317
+msgid "Enter Date:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:318
+msgid "Enter year. Ex.:2020"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:319
+msgid "Enter day. Ex.:27"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:320
+msgid "Enter month. Ex.:11"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:323
+msgid "Notify Text:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:325
+msgid "Form Shortcode:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:332
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:1052
+msgid "Social Icons"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:342
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:1062
+msgid "Give Some Name"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:343
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:1063
+msgid "Give Some Link"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:382
+msgid "Layout Style:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:446
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:512
+msgid "Select Category"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:554
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:665
+msgid "Show Filter:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:563
+msgid "Portfolio Type:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:596
+msgid "Revolution Slider Shortcode:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:744
+msgid "Slide Interval In Milliseconds:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:873
+msgid ""
+"Please use this option to add paddings around the images. Recommended size in pixels "
+"0-10. (Ex.: 5px):"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:962
+msgid "Default Gallery Style:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:969
+msgid "Show Type Selector:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:1013
+msgid "Link to the work:"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:1028
+msgid "Add Custom Field"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:1064
+msgid "Foreground Color"
+msgstr ""
+
+#: core/plugins/gt3-pagebuilder/gt3_builder.php:1101
+msgid "Select Background Options"
+msgstr ""
+
+#: core/registrator/ajax-handlers.php:673
+msgid "Time spent"
+msgstr ""
+
+#: core/registrator/misc.php:49
+msgid "Custom Sidebars"
+msgstr ""
+
+#: core/registrator/misc.php:98
+msgid "Custom Layout"
+msgstr ""
+
+#: core/registrator/sidebars.php:9
+msgid ""
+"Add the widgets appearance for Custom Sidebar. Drag the widget from the available list on "
+"the left, configure widgets options and click Save button. Select the sidebar on the "
+"posts or pages in just few clicks."
+msgstr ""
+
+#: functions.php:101
+msgid "Reply"
+msgstr ""
+
+#: functions.php:104
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:521
+msgid "TO VIEW IT PLEASE ENTER YOUR PASSWORD"
+msgstr ""
+
+#: functions.php:583
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: image.php:70
+#, php-format
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" datetime=\"%1$s\">"
+"%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: image.php:88
+msgid "Full resolution"
+msgstr ""
+
+#: image.php:93
+msgid "Edit"
+msgstr ""
+
+#: image.php:100
+msgid "Pages:"
+msgstr ""
+
+#: image.php:107 page-gallery-content.php:35
+msgid "Back"
+msgstr ""
+
+#: page-albums.php:175 page-background.php:91 page-blog-fullscreen.php:163
+#: page-center.php:90 page-countdown.php:106 page-fullscreen-slider.php:160
+#: page-gallery-content.php:121 page-gallery-grid.php:68 page-gallery-kenburns.php:75
+#: page-gallery-masonry.php:80 page-gallery-ribbon.php:199 page-gallery-whaterwheel.php:270
+#: page-portfolio-grid-block.php:192 page-portfolio-grid.php:211
+#: page-portfolio-masonry-block.php:202 page-revolution.php:32 page-strip.php:99
+#: page.php:50 single-gallery.php:215 single-port.php:1119 single.php:167
+msgid "THIS CONTENT IS PASSWORD PROTECTED"
+msgstr ""
+
+#: page-countdown.php:48
+msgid "Date has not been entered"
+msgstr ""
+
+#: page-gallery-ribbon.php:54 single-port.php:247 single-port.php:683
+msgid "of"
+msgstr ""
+
+#: page-gallery-ribbon.php:59 page-gallery-whaterwheel.php:49 single-port.php:109
+#: single-port.php:252 single-port.php:410 single-port.php:555 single-port.php:688
+#: single-port.php:872 single-port.php:1017 single.php:67
+msgid "Share this:"
+msgstr "Partage"
+
+#: page-portfolio-grid-block.php:128 page-portfolio-grid.php:132
+#: page-portfolio-masonry-block.php:127
+msgid "Load more works"
+msgstr ""
+
+#: search.php:109
+msgid "Oops!"
+msgstr ""
+
+#: search.php:109
+msgid "Not Found!"
+msgstr ""
+
+#: search.php:116 searchform.php:2
+msgid "Search the site..."
+msgstr "Recherche"
+
+#: single-gallery.php:181
+msgid "No images found"
+msgstr "Aucune image trouvé"
+
+#: single-port.php:50
+msgid "Previous Post"
+msgstr "Précédent"
+
+#: single-port.php:51
+msgid "Next Post"
+msgstr "Suivant"
+
+#: single-port.php:140 single.php:100
+msgid "About the Author"
+msgstr ""
+
+msgid "Update Profile"
+msgstr "Mettre à jour"
