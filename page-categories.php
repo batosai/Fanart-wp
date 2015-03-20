@@ -16,7 +16,10 @@ if ( !post_password_required() ) {
 
     $categories = get_categories($args);
 
-    $filters = get_categories();
+    $filters = get_categories($args = array(
+        'orderby'    => 'name',
+        'order'      => 'DESC'
+    ));
 ?>
 
 
