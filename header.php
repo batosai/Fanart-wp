@@ -14,6 +14,14 @@
     <link rel="apple-touch-icon" href="<?php echo gt3_get_theme_option('apple_touch_57'); ?>">
     <link rel="apple-touch-icon" sizes="72x72" href="<?php echo gt3_get_theme_option('apple_touch_72'); ?>">
     <link rel="apple-touch-icon" sizes="114x114" href="<?php echo gt3_get_theme_option('apple_touch_114'); ?>">
+
+    <meta name="application-name" content="Fan art"/>
+    <meta name="msapplication-TileColor" content="#ffffff"/>
+    <meta name="msapplication-square70x70logo" content="img/win8/tiny.png"/>
+    <meta name="msapplication-square150x150logo" content="img/win8/square.png"/>
+    <meta name="msapplication-wide310x150logo" content="img/win8/wide.png"/>
+    <meta name="msapplication-square310x310logo" content="img/win8/large.png"/>
+
     <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
     <script type="text/javascript">
         var gt3_ajaxurl = "<?php echo admin_url('admin-ajax.php'); ?>";

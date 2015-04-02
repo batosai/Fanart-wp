@@ -501,6 +501,14 @@ $custom_css = new cssJsGenerator(
 		font-size:' . $h6_font_size . ';
 		line-height:' . $h6_line_height . ';
 	}
+
+    .category h2 {
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        width: 100%;
+        overflow: hidden;
+    }
+
 	@media only screen and (max-width: 760px) {
 		.fw_content_wrapper {
 			background:#' . $body_bg . '!important;
