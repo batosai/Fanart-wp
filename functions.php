@@ -2,6 +2,11 @@
 
 // UPDATE `fa_usermeta` SET `meta_value`="false" WHERE meta_key="show_admin_bar_front";
 
+remove_action('do_feed_rdf', 'do_feed_rdf', 10, 1);
+remove_action('do_feed_rss', 'do_feed_rss', 10, 1);
+remove_action('do_feed_rss2', 'do_feed_rss2', 10, 1);
+remove_action('do_feed_atom', 'do_feed_atom', 10, 1);
+
 if (!isset($content_width)) $content_width = 940;
 
 function gt3_get_theme_pagebuilder($postid, $args = array())

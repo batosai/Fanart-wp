@@ -188,8 +188,8 @@ if (isset($gt3_theme_pagebuilder['portfolio']['port_type']) && $gt3_theme_pagebu
 		});
     </script>
 	<?php
- //    $gt3_pagination = gt3_get_theme_pagination(gt3_get_theme_option('fw_posts_per_page'), $type = "show_in_shortcodes");
-	// echo $gt3_pagination;
+    $gt3_pagination = gt3_get_theme_pagination(gt3_get_theme_option('fw_posts_per_page'), $type = "show_in_shortcodes");
+	echo $gt3_pagination;
 	?>
 
 <?php get_footer('fullwidth');

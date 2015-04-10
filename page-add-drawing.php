@@ -65,7 +65,7 @@ if(isset($_POST['title'])) {
         $post_id = wp_insert_post($post);
 
         $file          = wp_handle_upload($_FILES['image'], array('test_form' => false));
-        $filename      = $_FILES['image']['name'];
+        $filename      = basename($file['file']);
         $filetype      = wp_check_filetype( basename( $filename ), null );
         $wp_upload_dir = wp_upload_dir();
 
